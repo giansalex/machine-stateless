@@ -5,7 +5,11 @@ using System.Text;
 
 namespace WorkFlowSample
 {
-    public class Class1
+    public class MainState
     {
+        public void Run()
+        {
+            
+        }
     }
 }
